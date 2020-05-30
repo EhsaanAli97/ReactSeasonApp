@@ -1,0 +1,10 @@
+body {
+    background: red;
+}
+
+.error-display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
